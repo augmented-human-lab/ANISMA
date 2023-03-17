@@ -28,3 +28,21 @@ ANISMA Software --> ANISMA Controller Board --> ANISMA Driver Board
 # ANISMA Workflow
 Click on the following image to watch the workflow on youtube.
 [![Watch ANISMA Workflow on YouTube](https://user-images.githubusercontent.com/62531877/225813476-4e71f8e7-e72a-4d61-bce1-210ebdbec084.jpg)](https://youtu.be/0hwP_USbstA)
+
+# Hardware Kit components
+
+Apart from the Controller and Driver Board the hardware Kit consists of the following items:
+We provide a full list with links and ways to purchase the items we used for our experiments. Some of these parts may not available due to stock shortage. However, many of these parts may be substituted. 
+
+| Name               | URL                                                                                               | Part Number               | Count (Recommended Minimum) | Comment                                           |
+|--------------------|---------------------------------------------------------------------------------------------------|---------------------------|-----------------------------|---------------------------------------------------|
+| Nodes              | https://www.pcbway.com/project/shareproject/ANISMA_Node_cd43db88.html                             | -                         | 8                           |                                                   |
+| Pin Header         | https://www.digikey.com/en/products/detail/phoenix-contact/1945193/950887                         | 277-1759-ND               | 2                           |                                                   |
+| Jumper Cable       | https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-12796/5993861                 | 1568-1513-ND              | 1                           | longer recommended                                |
+| Socket             | https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DF59M-1S-H-21/5226337           | DF59M-1S-H(21)            | 32                          |                                                   |
+| Connector          | https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DF59M-2628PCF/5226341           | DF59M-2628PCF             | 32                          |                                                   |
+| SMA Spring         | https://www.dynalloy.com/tech_data_springs.php                                                    | FLEXINOL® Actuator Spring | 10                          | For specific parameters, refer to ANISMA Software |
+| Skin Adhesive Tape | https://www.chemistwarehouse.com.au/buy/106518/primafix-plus-conformable-retention-tape-10cm-x-2m | PRIMAFIX Plus             | 1                           | Or similar product                                |
+|                    |                                                                                                   |                           |                             |                                                   |
+
+To print the layout with node moutns on skin adhesive we used Prusa i3 3D Printer and PLA Filament.
